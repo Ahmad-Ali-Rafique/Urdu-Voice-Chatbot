@@ -59,7 +59,7 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## 📧 **Contact**
 
-For any inquiries or feedback, please reach out to me at [your-email@example.com](arsbussiness786@gmail.com).
+For any inquiries or feedback, please reach out to me at [E-mail](arsbussiness786@gmail.com).
 
 ## 👤 **About Me**
 
