@@ -51,7 +51,7 @@ The Urdu Voice Chatbot is designed to:
 
 ## 📈 **Deployment**
 
-This application is also deployed on Streamlit Cloud. You can access the live app here: [Your Streamlit App URL](https://your-streamlit-app-url)
+This application is also deployed on Streamlit Cloud. You can access the live app here: [Your Streamlit App URL](https://ahmad-ali-urdu-voice-chatbot.streamlit.app/)
 
 ## 🔍 **Contributing**
 
@@ -59,8 +59,8 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## 📧 **Contact**
 
-For any inquiries or feedback, please reach out to me at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, please reach out to me at [your-email@example.com](arsbussiness786@gmail.com).
 
 ## 👤 **About Me**
 
-I am Ahmad Ali Rafique, an AI & Machine Learning specialist with a focus on building intelligent applications. My expertise includes deep learning, natural language processing, and creating interactive applications using modern technologies. You can find more about my work on [GitHub](https://github.com/Ahmad-Ali-Rafique) and connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+I am Ahmad Ali Rafique, an AI & Machine Learning specialist with a focus on building intelligent applications. My expertise includes deep learning, natural language processing, and creating interactive applications using modern technologies. You can find more about my work on [GitHub](https://github.com/Ahmad-Ali-Rafique) and connect with me on [LinkedIn](https://www.linkedin.com/in/ahmad-ali-rafique/).
