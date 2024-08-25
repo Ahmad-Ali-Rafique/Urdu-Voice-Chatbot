@@ -1,3 +1,5 @@
+![YOLO Helmet Detection]([https://github.com/Ahmad-Ali-Rafique/AI-Chatbot/blob/main/Ai-Chatbot.png](https://github.com/Ahmad-Ali-Rafique/Urdu-Voice-Chatbot/blob/main/AI%20Chatbot.png))  <!-- Replace with a relevant image link -->
+
 # Urdu Voice Chatbot - Streamlit
 
 Welcome to the Urdu Voice Chatbot project! This repository showcases a Streamlit application that allows users to interact with a chatbot using Urdu voice input and receive responses in Urdu.
