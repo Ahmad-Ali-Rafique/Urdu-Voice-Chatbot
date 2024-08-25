@@ -1,4 +1,4 @@
-![YOLO Helmet Detection]([https://github.com/Ahmad-Ali-Rafique/AI-Chatbot/blob/main/Ai-Chatbot.png](https://github.com/Ahmad-Ali-Rafique/Urdu-Voice-Chatbot/blob/main/AI%20Chatbot.png))  <!-- Replace with a relevant image link -->
+![YOLO Helmet Detection](https://github.com/Ahmad-Ali-Rafique/Urdu-Voice-Chatbot/blob/main/AI%20Chatbot.png)  <!-- Replace with a relevant image link -->
 
 # Urdu Voice Chatbot - Streamlit
 
